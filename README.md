@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Kotlin and Digital Marketing**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/ghulamrasuldev?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ghulamrasuldev?tab=repositories)
 
-- 📝 I regularly write articles on [here](https://medium.com/@ghulamrasuldev)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ghulamrasuldev)
 
 - 💬 Ask me about **Mobile Apps & Animations**
 
-- 📫 Need to talk? reach me **[here](ghulam.rasool.uni@gmail.com)**
+- 📫 Need to talk? Reach me **[Email](ghulam.rasool.uni@gmail.com)**
+
+- 💬 Need to talk urgently? Find me on **[Instagram](www.instagram/ghularasuldev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
