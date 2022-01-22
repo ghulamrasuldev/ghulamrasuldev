@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ghulam Rasool</h1>
 <h3 align="center">I’m a Student with a passion for Mobile Apps along with Machine Learning and Food.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamrasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamrasuldev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghulamrasuldev" alt="ghulamrasuldev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ghulamrasuldev" target="blank"><img src="https://img.shields.io/twitter/follow/ghulamrasuldev?logo=twitter&style=for-the-badge" alt="ghulamrasuldev" /></a> </p>
-
 - 🔭 I’m currently working on [virtuous-voice](https://github.com/ghulamrasuldev/virtuous-voice)
 
 - 🌱 I’m currently learning **Kotlin and Digital Marketing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ghulamrasuldev?tab=repositories](https://github.com/ghulamrasuldev?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ghulamrasuldev?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@ghulamrasuldev](https://medium.com/@ghulamrasuldev)
+- 📝 I regularly write articles on [here](https://medium.com/@ghulamrasuldev)
 
 - 💬 Ask me about **Mobile Apps & Animations**
 
-- 📫 How to reach me **ghulam.rasool.uni@gmail.com**
+- 📫 How to reach me **[here](ghulam.rasool.uni@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
