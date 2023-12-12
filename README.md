@@ -8,6 +8,7 @@
 - 📫 Need to talk? Reach me **[Email](ghulam.rasool.uni@gmail.com)**
 
 - 💬 Need to talk urgently? Find me on **[Linkedin](www.linkedin.com/in/ghularasuldev)**
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamrasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamrasuldev" /> </p>
 
