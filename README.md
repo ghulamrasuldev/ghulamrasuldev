@@ -1,6 +1,4 @@
-# Hey there! 👋 I'm Ghulam Rasool
-
-## A professional driven by passion for Mobile Apps, Machine Learning, and the art of culinary delights.
+## A professional driven by a passion for Mobile Apps, AI Solutions, and the art of culinary delights.
 
 - 🌱 Exploring the realms of **React Native** and the enchantment of **Business Development**
 - 👨‍💻 Dive into the collection of my brainchildren on [Github](https://github.com/ghulamrasuldev?tab=repositories)
@@ -10,6 +8,8 @@
 - 📫 Need to talk? Reach me **[Email](ghulam.rasool.uni@gmail.com)**
 
 - 💬 Need to talk urgently? Find me on **[Linkedin](www.linkedin.com/in/ghularasuldev)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamrasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamrasuldev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,7 +47,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamrasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamrasuldev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghulamrasuldev" alt="ghulamrasuldev" /></a> </p>
