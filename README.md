@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ghulam Rasool</h1>
-<h3 align="center">I’m a Student with a passion for Mobile Apps along with Machine Learning and Food.</h3>
+# Hey there! 👋 I'm Ghulam Rasool
 
-- 🔭 I’m currently working on [virtuous-voice](https://github.com/ghulamrasuldev/virtuous-voice)
+## A student driven by passion for Mobile Apps, Machine Learning, and the art of culinary delights.
 
-- 🌱 I’m currently learning **Kotlin and Digital Marketing**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ghulamrasuldev?tab=repositories)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@ghulamrasuldev)
-
-- 💬 Ask me about **Mobile Apps & Animations**
+- 🔭 Currently weaving wonders at [virtuous-voice](https://github.com/ghulamrasuldev/virtuous-voice)
+- 🌱 Exploring the realms of **Kotlin** and the enchantment of **Digital Marketing**
+- 👨‍💻 Dive into the collection of my brainchildren on [Github](https://github.com/ghulamrasuldev?tab=repositories)
+- 📝 Find my musings on technology and life on [Medium](https://medium.com/@ghulamrasuldev)
+- 💬 Let's have a conversation about the symphony of **Mobile Apps & Animations**
 
 - 📫 Need to talk? Reach me **[Email](ghulam.rasool.uni@gmail.com)**
 
-- 💬 Need to talk urgently? Find me on **[Instagram](www.instagram/ghularasuldev)**
+- 💬 Need to talk urgently? Find me on **[Linkedin](www.linkedin.com/in/ghularasuldev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
