@@ -54,9 +54,3 @@ Currently exploring deeper into **React Native architecture**, **AI integrations
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ghulamrasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
----
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghulamrasuldev&theme=flat&margin-w=15&margin-h=15" alt="github trophies" />
-</p>
